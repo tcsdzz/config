@@ -1,4 +1,4 @@
 {
   "url": "https://10.0.0.163:5678",
-  "type": "JSON",
+  "type": "JSON"
 }
